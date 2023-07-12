@@ -6,7 +6,7 @@ R Project Based on the fitness and diet of the people and Data Visualization as 
 ●	As a result we have prepared this project and collected data by conducting a survey which consists of different questions related to people’s fitness goals.
 ●	With the collected data we will be categorizing people into different categories based on various factors and provide them with proper suggestions to get into perfect health.
 
-2) Description of Data Set
+3) Description of Data Set
 ●	The DataSet consists of variables like height, weight, age, gender, etc.
 ●	To collect the information we conducted a survey which included questions like:
 1.	Height
